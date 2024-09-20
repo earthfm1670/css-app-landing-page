@@ -1,1 +1,32 @@
-/* Start coding here */
+.flexcontainer {
+  display: flex;
+  justify-content: space-around;
+  width: 99vw;
+  margin: 5x;
+}
+
+.container1,
+.container2,
+.container3 {
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+
+
+.container1 {
+  background-color: aliceblue;
+ 
+}
+
+.container2 {
+  background-color: lightblue;
+}
+
+.container3 {
+  background-color: plum;
+}
