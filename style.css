@@ -71,6 +71,8 @@ ul:hover {
   color: blueviolet;
   text-decoration: underline;
   font-weight: 700;
+}
+
 .flexcontainer {
   display: flex;
   justify-content: space-around;
